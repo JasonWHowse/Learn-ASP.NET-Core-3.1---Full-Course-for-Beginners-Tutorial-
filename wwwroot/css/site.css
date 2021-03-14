@@ -12,6 +12,23 @@ a {
   color: #0366d6;
 }
 
+.bg-console {
+    background-color: #101211;
+}
+
+
+a.bg-console:hover, a.bg-console:focus,
+button.bg-console:hover,
+button.bg-console:focus {
+    background-color: #102419;
+}
+
+
+.navbar-console{
+    color: #0f0;
+}
+
+
 .btn-primary {
   color: #fff;
   background-color: #1b6ec2;
